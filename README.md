@@ -5,8 +5,9 @@ Site de uma agenda dos respectivos dos jogos da 1º, 2º e 3º rodadas da Copa d
 </p>
 
 <p align="center">
-  <img alt="calendario copa" src="github/prewiewjpg" width="100%">
+  <img alt="calendario copa" src=".github/prewiewjpg" width="100%">
   </p>
+  
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
