@@ -4,7 +4,7 @@
 Site de uma agenda dos respectivos dos jogos da 1º, 2º e 3º rodadas da Copa do Mundo 2022 do Qatar
 </p>
 <p align="center">
-  <img alt="calendario copa" src="preview.jpg" width="100%">
+  <img alt="calendario copa" src="Capa.jpg" width="100%">
   </p>
 
 ## 🚀 Tecnologias
